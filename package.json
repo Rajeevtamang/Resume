@@ -1,0 +1,15 @@
+{
+  "name": "protfolio",
+  "version": "1.0.0",
+  "description": "Responsive website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w SCSS/ -o DIST/css/ --recursive" 
+
+  },
+  "author": "Rajeev Tamang",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
